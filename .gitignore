@@ -1,0 +1,2 @@
+# Ignore all json files (ethusd.json and btcusd.json)
+*.json
